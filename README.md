@@ -1,6 +1,6 @@
 # Python-Mental-Health-Chatbot(Web-based)
 
-This is project at my college for AEC
+This is project at my college 
 
 AIM: This is built to educate users with the correct knowledge of mental health and also provide some functions to improve mental health ***(NOT DIAGNOSIS)***.
 
